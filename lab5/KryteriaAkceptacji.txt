@@ -1,0 +1,18 @@
+Użytkownik chce zmienić swoje hasło:
+1. Użytkownik w ustawieniach konta wybiera opcję "Zmień Hasło"
+2. Strona wyświetla panel zmiany hasła
+3. Użytkownik podaje aktualny login i hasło dla bezpieczeństwa.
+4. Użytkownik podaje nowe hasło oraz musi je powtórzyć.
+5. Nowe hasło powinno zawierać minimum 8 znaków, w tym 1 znak specjalny i 1 litera
+6. Użytkownik potwierdza nowe hasło
+7. Hasło jest sprawdzane przez system
+8. Poprawne hasło zostaje zatwierdzone, strona wyświetla komunikat
+
+Użytkownik chce przesłać plik na serwer:
+1. Na stronie serwisu mamy przycisk "Dodaj Plik"
+2. Użytkownik wybiera ten przycisk
+3. Strona wyświetla nam informacie "Wybierz plik z komputera lub przerzuć tutaj ..."
+4. Użytkownik wybiera plik i przerzuca na stronę
+5. Strona dopuszcza pliki do max. 5mb
+6. Użytkownik zatwierdza przesłanie pliku
+7. Serwer otrzymuje plik

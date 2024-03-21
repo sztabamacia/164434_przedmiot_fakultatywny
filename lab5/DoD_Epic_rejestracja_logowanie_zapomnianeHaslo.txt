@@ -1,0 +1,9 @@
+Definition of Done dla Epic rejestracji/logowania/zapomnianego hasła
+
+1. Utworzenie konta użytkownika
+2. Zalogowanie się na konto użytkownika
+3. Usunięcie konta użytkownika
+4. Odzyskanie hasła
+5. Włączenie weryfikacji dwuetapowej
+6. Modyfikacja danych użytkownika
+7. Wykonanie testów gwarantujących użytkownikom bezpieczeństwo
